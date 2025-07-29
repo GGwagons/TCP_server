@@ -1,4 +1,4 @@
-# TCP Price Server - Comprehensive Test Suite
+# TCP Server
 
 This project implements a robust TCP server that handles timestamped price data with multiple clients. The project is organized with clean separation of source code, tests, and build artifacts.
 
