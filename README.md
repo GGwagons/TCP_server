@@ -198,13 +198,3 @@ All integers are in network byte order (big-endian).
 - **Executables**: Built in project root for easy access
 - **Headers**: Centralized in `include/` directory
 
-## Expected Test Output
-
-The tests will show detailed output of each operation. Look for:
-- Successful connections from all clients
-- Correct average calculations
-- Proper handling of edge cases
-- No crashes or hangs
-- Clean disconnections
-
-If all tests pass, your server implementation is robust and ready for production use!
